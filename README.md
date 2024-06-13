@@ -1,1 +1,1 @@
-# Business-Consulting
+This is business consulting frondt-end static webpage.
