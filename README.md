@@ -1,1 +1,1 @@
-This is business consulting frondt-end static webpage.
+This is business consulting front-end static webpage.
